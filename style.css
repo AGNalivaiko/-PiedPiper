@@ -1,0 +1,119 @@
+@import url("normalize.css");
+header {
+    background-color: #007765;
+    line-height: normal;
+    font-size: 20px;
+    position: fixed;
+    width: 1293px;
+    top: 0;
+    
+}
+li {
+    display: inline-block;
+    padding: 10px 7px;
+    color: white;
+ 
+}
+.logo {
+    float: left;
+    margin: 0 37% 10px 150px;
+}
+.nav {
+    padding-left: 50%;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+body {
+    width: 1293px;
+    padding: 55px 55px;
+}
+.piper {
+    color: white;
+    font-size: 72px;
+    background-image: url("image.png");
+    background-size: cover cover;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 15%;
+    margin-top: -20px;
+}
+h2 {
+    text-align: center;
+    font-size: 72px;
+    color: #007765;
+}
+.problem {
+    background-color: #EEEEEE;
+    text-align: justify;
+    padding: 25px;
+    font-size: 24px;
+}
+.blue_phone {
+    background-image: url("image (1).png");
+    background-size: cover cover;
+    color: white;
+    font-size: 72px;
+    text-align: center;
+    padding: 5%;
+}
+.blue_phone p{
+    margin: 60px;
+    font-style: italic;
+}
+.mini_logo {
+    padding: -5px;
+    line-height: normal;
+    margin: 5px;
+}
+.mini_logo img{
+    float: left;
+    padding-right: 20px;
+}  
+.clear {
+    clear: both;
+}
+.mini_logo p{
+    font-size: 40px;
+}
+
+.Richard {
+    display: inline-block;
+    padding: 20px;
+}
+.Dinesh {
+    display: inline-block;
+    padding: 20px;
+}
+.team {
+    padding-left: 18%;
+    margin-top: -35px;
+    margin-bottom: 60px;
+}
+figure {
+    text-align: center;
+}
+figcaption {
+    font-size: 20px;
+    color: #007765;
+    font-weight: bold;
+    text-align: center;
+    
+}
+span {
+    font-style: italic;
+    text-align: center;
+}
+.footer {
+    background-color:#333333;
+    
+}
+.text_footer {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: 60px;
+    margin: 60px;
+}
+
